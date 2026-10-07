@@ -1,0 +1,6 @@
+work/
+.Rhistory
+.RData
+.Rproj.user/
+*.o
+*.so
